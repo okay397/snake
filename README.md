@@ -25,7 +25,7 @@
 在运行游戏之前，需要安装Pygame库：
 
 ```bash
-pip install -r requirements.txt
+pip install pygame
 ```
 
 ## 运行游戏
